@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     nokosearch (0.1.0)
+      nokogiri (~> 1.8.2)
 
 GEM
   remote: https://rubygems.org/
@@ -30,7 +31,6 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.16)
-  nokogiri
   nokosearch!
   rake (~> 10.0)
   rspec (~> 3.0)
