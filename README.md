@@ -1,8 +1,8 @@
 # Nokosearch
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/nokosearch`. To experiment with that code, run `bin/console` for an interactive prompt.
+Nokosearch is intended to be a simple wrapper gem for Nokogiri to provide some handy HTML focussed search functionality.
 
-TODO: Delete this and the text above, and describe your gem
+Nokogiri is a very powerful utility, but sometimes can be overkill for performing common tasks.
 
 ## Installation
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/nokosearch.
+Bug reports and pull requests are welcome on GitHub at https://github.com/eazynow/nokosearch.
 
 ## License
 
